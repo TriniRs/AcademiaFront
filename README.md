@@ -15,3 +15,5 @@ Al momento de configurar o subir el proyecto en **Vercel**, es importante asegur
 > **Cambiar el `Root Directory` a `academy_app`**
 > 
 > *(Dado que el archivo `index.html` se encuentra dentro de esa carpeta).*
+![Maquetado Stitch](./frontend_academy_logo/screen.png)
+> ![Maquetado Stitch](./frontend_academy_logo/screen.png) 
